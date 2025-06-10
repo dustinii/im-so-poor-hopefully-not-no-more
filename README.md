@@ -1,3 +1,5 @@
+i dont think i wanna do this project with this architecture after all...
+
 AnalyzedJobPosting JSON Schema README
 Overview
 This document describes the JSON schema for an AnalyzedJobPosting. This schema defines the expected structure and data types for JSON objects that represent job postings after they have been processed and analyzed, likely by a Large Language Model (LLM) or similar AI system.
